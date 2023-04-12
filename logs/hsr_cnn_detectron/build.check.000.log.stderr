@@ -1,0 +1,5 @@
+[31m[1mCMake Error[0m at /home/r2d2/hsr_rss_project/src/hsr_cnn_detectron/CMakeLists.txt:72 (generate_messages):
+  Unknown CMake command "generate_messages".
+
+
+make: *** [Makefile:530: cmake_check_build_system] Error 1

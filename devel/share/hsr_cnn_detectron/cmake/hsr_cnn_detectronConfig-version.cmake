@@ -1,0 +1,1 @@
+/home/r2d2/hsr_rss_project/devel/.private/hsr_cnn_detectron/share/hsr_cnn_detectron/cmake/hsr_cnn_detectronConfig-version.cmake

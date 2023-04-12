@@ -1,0 +1,8 @@
+prefix=/home/r2d2/hsr_rss_project/install
+
+Name: hsr_cnn_detectron
+Description: Description of hsr_cnn_detectron
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs sensor_msgs
